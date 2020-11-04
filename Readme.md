@@ -1,1 +1,1 @@
-# This is [an example](http://example.com/ "Title") inline link.
+# To view the project, [Click here!](http://example.com/ "Title").
