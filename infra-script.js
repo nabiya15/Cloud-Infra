@@ -1,4 +1,6 @@
 $(document).ready(function(){
+  console.log($(this))
+  $(this).scrollTop(0);
     /* Nav-scroll script */
     $(window).scroll(function(){
       if($(window).scrollTop() >=100){
